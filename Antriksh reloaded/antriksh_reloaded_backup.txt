@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Antriksh Club - VIT Pune</title>
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <h1>Welcome to the Antriksh Club 🌌</h1>
+        <h2>VIT Pune Astronomy Club 🚀</h2>
+    </header>
+
+    <!-- Navigation Menu -->
+    <nav>
+        <ul>
+            <li><a href="http://127.0.0.1:5500/Antriksh%20reloaded/Gallery.html" target="_blank">Image Gallery</a></li>
+            <li><a href="http://127.0.0.1:5500/Antriksh%20reloaded/Events.html" target="_blank">Events</a></li>
+        </ul>
+    </nav>
+    <nav>
+        <h2>Contents 🌠</h2>
+        <ul>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#our mission">Our Mission</a></li>
+            <li><a href="#resources">Resources</a></li>
+            <li><a href="#event glimpses">Event glimpses</a></li>
+            <li><a href="#Follow Us">Follow Us</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- About Section -->
+    <section id="about">
+        <h2>About Antriksh Club 🪐</h2>
+        <p>The Antriksh Club at VIT Pune is dedicated to exploring the cosmos and understanding the wonders of our universe. Our club organizes star-gazing nights, space exploration workshops, and invites guest speakers from the field of astronomy.</p>
+        <p>Our mission is to bring together students with a shared passion for the stars and to deepen our understanding of the vast universe we live in.</p>
+    </section>
+
+    <!-- our mission section -->
+    <section id="our mission">
+        <h2>Our Mission 🛰️</h2>
+        <p>Our mission at the Antriksh Club is to inspire a passion for astronomy and space sciences among students. We strive to build a collaborative community where members can explore the wonders of the cosmos, delve into groundbreaking discoveries, and deepen our collective understanding of the universe.
+        Through interactive activities, stargazing sessions, and thought-provoking discussions, we aim to make astronomy accessible, engaging, and meaningful for all. Our goal is to foster curiosity, broaden perspectives, and remind ourselves of the awe-inspiring scale of the cosmos and our unique place within it.</p>
+    </section>
+    <!-- resources section -->
+    <section id="resources">
+        <h2>Resources for the space geeks 👾</h2>
+        <ul>
+            <li><a href="https://www.nasa.gov/" target="_blank">Nasa</a></li>
+            <li><a href="https://www.space.com/" target="_blank">Space.com</a></li>
+        </ul>
+    </section>
+    <!-- event glimpses section -->
+    <section id="event glimpses">
+        <h2>Event Glimpses 🔭</h2>
+        <video src="vedios/2024-11-04 12-19-58.mp4" width="560" controls autoplay></video>
+    </section>
+    <!-- <section id="event-glimpses">
+        <h2>Event Glimpses</h2>
+        <iframe 
+            width="560" 
+            height="315" 
+            src="https://www.youtube.com/embed/MS79Pk4naEk?autoplay=1" 
+            title="YouTube video player" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
+        </iframe>
+    </section> -->
+        
+    
+    <!-- social media handles seciton -->
+    <section id="Follow Us">
+        <h2>Follow Us ⭐</h2>
+        <ul>
+            <li><a href="https://www.linkedin.com/company/antarikshclubvi/posts/?feedView=all" target="_blank">Linkdin</a></li>
+            <li><a href="https://www.instagram.com/antarikshclubvi/" target="_blank">Instagram</a></li>
+        </ul>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <h2>Contact Us 👨🏻‍🚀</h2>
+        <p>For more information, reach out to us:</p>
+        <address>
+            <p>Email: <a href="mailto:antrikshclub@vitpune.edu">antrikshclub@vitpune.edu</a></p>
+            <p>Location: VIT Pune, Main Campus</p>
+        </address>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2024 Antriksh Club, VIT Pune. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Antriksh Club(Image Gallery)</title>
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <h1>Welcome to the Antriksh Club's Image Gallery 🌌</h1>
+        <h2>VIT Pune Astronomy Club 🚀</h2>
+    </header>
+
+    <!-- Navigation Menu -->
+    <nav>
+        <ul>
+            <li><a href="http://127.0.0.1:5500/Antriksh%20reloaded/Antriksh.html#contact" target="_blank">Home</a></li>
+            <li><a href="http://127.0.0.1:5500/Antriksh%20reloaded/Events.html" target="_blank">Events</a></li>
+        </ul>
+    </nav>
+    
+    <table cellspacing="80">
+        <tr>
+            <td><img src="images.real/events18.png" width="300" height="200"></td>
+            <td><img src="images.real/event20.png" width="300" height="200"></td>
+            <td><img src="images.real/event19.png" width="300" height="200"></td>
+        </tr>
+        <tr>
+            <td><img src="images.real/event17.png" width="300" height="200"></td>
+            <td><img src="images.real/event16.png" width="300" height="200"></td>
+            <td><img src="images.real/event14.png" width="300" height="200"></td>
+        </tr>
+        <tr>
+            <td><img src="images.real/event12.png" width="300" height="200"></td>
+            <td><img src="images.real/event11.png" width="300" height="200"></td>
+            <td><img src="images.real/event9.png" width="300" height="200"></td>
+        </tr>
+        <tr>
+            <td><img src="images.real/event8.png" width="300" height="200"></td>
+            <td><img src="images.real/event6.png" width="300" height="200"></td>
+            <td><img src="images.real/event7.png" width="300" height="200"></td>
+        </tr>
+        <tr>
+            <td><img src="images.real/event5.png" width="300" height="200"></td>
+            <td><img src="images.real/event2.png" width="300" height="200"></td>
+            <td><img src="images.real/event3.png" width="300" height="200"></td>
+        </tr>
+        <tr>
+            <td><img src="images.real/event1.png" width="300" height="200"></td>
+            <td><img src="images.real/event13.png" width="300" height="200"></td>
+            <td><img src="images.real/event4.png" width="300" height="200"></td>
+        </tr>
+    </table>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <h2>Contact Us 👨🏻‍🚀</h2>
+        <p>For more information, reach out to us:</p>
+        <address>
+            <p>Email: <a href="mailto:antrikshclub@vitpune.edu">antrikshclub@vitpune.edu</a></p>
+            <p>Location: VIT Pune, Main Campus</p>
+        </address>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2024 Antriksh Club, VIT Pune. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
